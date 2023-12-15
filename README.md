@@ -1,16 +1,25 @@
-# 👋 I'am AHMAD SAEED
-A passionate DevOps Engineer from India.
+<h1 align="center">Hey Everyone 👋, I'm Ahmad Saeed</h1>
+<h3 align="center">A Passionate DevOps Engineer From India.</h3>
+
+<img align="right" alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 ## 💼 Skills
 
-- 📂 Version Control: Git, GitHub, GitHub Actions
-- 🔄 CI/CD: Jenkins, GitLab CI
-- 🛠️ IaC: Terraform, Ansible
-- 🐳 Containers: Docker, Kubernetes
-- ☁️ Cloud Platforms: AWS, Azure, GCP
-- 📊 Monitoring: Prometheus, Grafana, ELK Stack
-- 🚀 Scripting: Shell, Python, Bash
-- 🤝 Collaboration: Slack, Microsoft Teams
+- 📂 ***Version Control:*** Git, GitHub, GitHub Actions
+- 🔄 ***CI/CD:*** Jenkins, GitLab CI, ArgoCD(GitOps)
+- 🐳 ***Containerization:*** Docker
+- 🚀 ***Orchestration:*** Kubernetes, EKS, Helm, Istio
+- 🛠️ ***IaC:*** Terraform
+- ⚙️ ***Configuration:*** Ansible
+- ☁️ ***Cloud Platforms:*** AWS
+- 🛢️ ***Database:*** Postgres, MySQL, MongoDB
+- 🌐 ***Web Servers:*** Nginx, Apache
+- 📊 ***Monitoring:*** Prometheus, Grafana, ELK Stack
+- 🚀 ***Scripting:*** Shell, Python, Bash
+- 🤝 ***Collaboration:*** Slack, Microsoft Teams
+
+
 
 
 
