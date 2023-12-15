@@ -13,9 +13,10 @@ A passionate DevOps Engineer from India.
 - 🤝 Collaboration: Slack, Microsoft Teams
 
 
+
 ## 📬 Get in Touch
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ahmad-saeed-575355221/]
+- 🔗 LinkedIn: [Ahmad Saeed](https://www.linkedin.com/in/ahmad-saeed-575355221/)
 - ✉️ Email: [gj5404@myamu.ac.in]
 
 Feel free to connect or reach out for collaboration!
