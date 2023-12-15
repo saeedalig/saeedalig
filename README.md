@@ -1,6 +1,5 @@
-# 👋 About Me - [Your Name]
-
-DevOps engineer passionate about streamlining development, ensuring system reliability, and enhancing efficiency.
+# 👋 I'am AHMAD SAEED
+A passionate DevOps Engineer from India.
 
 ## 💼 Skills
 
@@ -13,35 +12,10 @@ DevOps engineer passionate about streamlining development, ensuring system relia
 - 🚀 Scripting: Shell, Python, Bash
 - 🤝 Collaboration: Slack, Microsoft Teams
 
-## 🌟 Professional Experience
-
-### [Current Company]
-
-- 🎯 [Your role and responsibilities]
-- 🚀 Ongoing projects/initiatives
-
-## 🚀 Projects
-
-### [Project 1]
-
-- 📝 Brief description
-- 💻 Technologies used
-- 🙌 Your contributions
-
-### [Project 2]
-
-- 📝 Brief description
-- 💻 Technologies used
-- 🙌 Your contributions
-
-## 🎓 Certifications
-
-- 🏅 [List of certifications]
 
 ## 📬 Get in Touch
 
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- ✉️ Email: [Your Email]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ahmad-saeed-575355221/]
+- ✉️ Email: [gj5404@myamu.ac.in]
 
 Feel free to connect or reach out for collaboration!
