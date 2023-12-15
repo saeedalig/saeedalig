@@ -17,6 +17,6 @@ A passionate DevOps Engineer from India.
 ## 📬 Get in Touch
 
 - 🔗 LinkedIn: [Ahmad Saeed](https://www.linkedin.com/in/ahmad-saeed-575355221/)
-- ✉️ Email: [gj5404@myamu.ac.in]
+- ✉️ Email: gj5404@myamu.ac.in
 
 Feel free to connect or reach out for collaboration!
