@@ -3,6 +3,7 @@
 
 
 <img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 # 💼 Skills
 
 - 📂 ***Version Control:*** Git, GitHub, GitHub Actions
