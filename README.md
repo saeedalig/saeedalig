@@ -1,9 +1,8 @@
 <h1 align="center">Hi Folks 👋, I'm Ahmad Saeed</h1>
 <h3 align="center">A Passionate DevOps Engineer From India.</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
+<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 # 💼 Skills
 
 - 📂 ***Version Control:*** Git, GitHub, GitHub Actions
