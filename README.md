@@ -17,11 +17,11 @@
 - 🌐 ***Web Servers:*** Nginx, Apache
 - 📊 ***Monitoring:*** Prometheus, Grafana, ELK Stack
 - 🚀 ***Scripting:*** Shell, Python, Bash
-- 🤝 ***Collaboration:*** Slack, Microsoft Teams
+- 🤝 ***Collaboration:*** Jira, Slack
 
 
 # Project-1: - Netflix Clone Application
-Deploying ***Netflix Clone Application*** in Kubernetes Cluster using CICD Pipeline that not only involves the modern stack tools but also embeds security measures enhancing safe and speedy delivery of softwares.
+Deployed ***Netflix Clone Application*** in Kubernetes Cluster using CICD Pipeline that not only involves the modern stack tools but also embeds security measures enhancing safe and speedy delivery of softwares.
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*S2QvGHThfniSkkQA" alt="Logo" width="90%" height="90%">
