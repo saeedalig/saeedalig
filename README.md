@@ -20,7 +20,7 @@
 - 🤝 ***Collaboration:*** Jira, Slack
 
 
-# Project-1: - Netflix Clone Application
+# Project: - Netflix Clone Application
 Deployed ***Netflix Clone Application*** in Kubernetes Cluster using CICD Pipeline that not only involves the modern stack tools but also embeds security measures enhancing safe and speedy delivery of softwares.
 
 <div align="center">
